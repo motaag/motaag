@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<div> 
-<h4> 😄 Pronome: Ela/Dela</h4>
 
-<h4> 🌱 Atualmente estou cursando o 2° Semestre de Engenharia da Computação - UFMT  </h4> 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
+<div> 
+<h4 align= "left" > 😄 Pronome: Ela/Dela</h4>
+
+<h4 align="left"> 🌱  Atualmente estou cursando o 2° Semestre de Engenharia da Computação - UFMT  </h4> 
+<img align="right" width="100px" height="100px" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
  <br>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=dark&border_radius=45px)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=onedark&border_radius=45px)
   </div> 
  
 <br>
@@ -35,10 +36,10 @@ Here are some ideas to get you started:
   
 <div>
 <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="30" width="40"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="30" width="40"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </div>
-  
+
 
 
   
