@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 <h4 align="left"> 🌱  Atualmente estou cursando o 2° Semestre de Engenharia da Computação - UFMT  </h4> 
 <img align="right" width="100px" height="100px" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
  <br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=onedark&border_radius=45px)
-  </div>  
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=radical)
+  </div> 
+  
+  <br>
   
     
 <div> 
