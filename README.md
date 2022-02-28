@@ -23,14 +23,15 @@ Here are some ideas to get you started:
  <br>
  
  ![Motaag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=kacho_ga)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motaag&layout=compact&theme=kacho_ga)](https://github.com/motaag)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
   </div> 
   
+  
+
   <br>
-  <div> 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-   </div> 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motaag&layout=compact)](https://github.com/motaag/motaag)
-   
+  <div>
 <div> 
 
 <a href="https://twitter.com/motaaag"><img align= "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
