@@ -26,8 +26,9 @@ Here are some ideas to get you started:
   </div> 
   
   <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=motaag&repo=github-readme-stats)]
-    
+  <div> 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=motaag&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+   </div> 
 <div> 
 
 <a href="https://twitter.com/motaaag"><img align= "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
