@@ -23,7 +23,6 @@ Here are some ideas to get you started:
  <br>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=onedark&border_radius=45px)
   </div>  
-<br>
   
     
 <div> 
