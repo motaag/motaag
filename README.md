@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
   <br>
   <div> 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=motaag&repo=readme)](https://github.com/motaag/motaag)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=motaag&repo=https://github.com/motaag/motaag)](https://github.com/motaag/motaag)
    </div> 
 <div> 
 
