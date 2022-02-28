@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <img align="right" width="100px" height="100px" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
  <br>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=kacho_ga)
   </div> 
   
   <br>
   <div> 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=motaag&repo=https://github.com/motaag/motaag)](https://github.com/motaag/motaag)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
    </div> 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motaag&layout=compact)](https://github.com/motaag/motaag)
    
