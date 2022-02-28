@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </div> 
   
   <br>
-  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
     
 <div> 
 
