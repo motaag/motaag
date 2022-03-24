@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div> 
 <h4 align= "left" > 😄 Pronome: Ela/Dela</h4>
 
-<h4 align="left"> 🌱  Atualmente estou cursando o 2° Semestre de Engenharia da Computação - UFMT  </h4> 
+<h4 align="left"> 🌱  Atualmente estou cursando o 3° Semestre de Engenharia da Computação - UFMT  </h4> 
 <img align="right" width="100px" height="100px" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
  <br>
  
