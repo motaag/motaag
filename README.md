@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <img height="30" width="40"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   </div>
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/motaag/blob/output/github-contribution-grid-snake.svg)
 
   
