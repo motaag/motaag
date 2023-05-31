@@ -1,4 +1,4 @@
-# Problema do Cavalo em Python
+#  Problema do Cavalo em Python 🐴
 
 Este é um programa em Python que resolve o problema do cavalo, também conhecido como "O Passeio do Cavalo". O problema consiste em encontrar um caminho para que um cavalo percorra todas as casas de um tabuleiro de xadrez, passando por cada casa uma única vez.
 
@@ -10,11 +10,6 @@ Este é um programa em Python que resolve o problema do cavalo, também conhecid
 
 1. Certifique-se de ter o Python 3.x instalado em seu sistema.
 2. Baixe o arquivo `cavalo.py` deste repositório.
-
-```bash
-git clone https://github.com/(caminhoDoTrabalho)
-```
-
 3. Abra o terminal e navegue até o diretório onde o arquivo `cavalo.py` está localizado.
 4. Execute o seguinte comando:
 
@@ -41,5 +36,6 @@ O programa exibirá o tabuleiro com o caminho percorrido pelo cavalo, indicando 
 ## Autores 
 	Anna Gabriela Mota
 	Gabriel Brecciani Rebolla
+
 
 
