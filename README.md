@@ -10,8 +10,12 @@ Este é um programa em Python que resolve o problema do cavalo, também conhecid
 
 1. Certifique-se de ter o Python 3.x instalado em seu sistema.
 2. Baixe o arquivo `cavalo.py` deste repositório.
-3. Abra o terminal e navegue até o diretório onde o arquivo `cavalo.py` está localizado.
-4. Execute o seguinte comando:
+3. Abra o terminal: Abra o terminal ou prompt de comando em seu sistema operacional. A forma de fazer isso pode variar dependendo do sistema operacional que você está usando. Por exemplo:
+
+No Windows, você pode pressionar Win + R, digitar cmd e pressionar Enter.
+No macOS, você pode abrir o Launchpad, digitar "Terminal" na barra de busca e clicar no aplicativo "Terminal".
+No Linux, você pode pressionar Ctrl + Alt + T para abrir o terminal.
+Navegue até o diretório do arquivo: Use o comando cd para navegar até o diretório onde o arquivo cavalo.py está localizado. Por exemplo, se você salvou o arquivo na área de trabalho, pode usar o seguinte comando no terminal:
 
    ```bash
    python cavalo.py
