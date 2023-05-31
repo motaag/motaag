@@ -1,49 +1,45 @@
-### Olá eu sou a Anna Gabriela
+# Problema do Cavalo em Python
 
-<!--
-**motaag/motaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é um programa em Python que resolve o problema do cavalo, também conhecido como "O Passeio do Cavalo". O problema consiste em encontrar um caminho para que um cavalo percorra todas as casas de um tabuleiro de xadrez, passando por cada casa uma única vez.
 
-Here are some ideas to get you started:
+## Requisitos
 
-- 🔭 I’m currently working on ...
+- Python 3.x
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+## Como executar o programa
 
-<div> 
-<h4 align= "left" > 😄 Pronome: Ela/Dela</h4>
+1. Certifique-se de ter o Python 3.x instalado em seu sistema.
+2. Baixe o arquivo `cavalo.py` deste repositório.
 
-<h4 align="left"> 🌱  Atualmente estou cursando o 5° Semestre de Engenharia da Computação - UFMT  </h4> 
-<img align="right" width="100px" height="100px" src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" />
- <br>
- 
- ![Motaag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motaag&show_icons=true&theme=kacho_ga)
- 
+```bash
+git clone https://github.com/(caminhoDoTrabalho)
+```
 
+3. Abra o terminal e navegue até o diretório onde o arquivo `cavalo.py` está localizado.
+4. Execute o seguinte comando:
 
-  </div> 
-  
-  
+   ```bash
+   python cavalo.py
+   ```
 
-  <br>
-  <div>
-<div> 
+5. O programa irá exibir o tabuleiro de xadrez com o caminho percorrido pelo cavalo.
 
-<a href="https://twitter.com/motaaag"><img align= "center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:annagabrielamota@gmail.com"> <img align= "center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/motaag/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-  
-<div>
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="30" width="40"  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  </div>
+## Funcionamento do programa
+
+O programa utiliza a abordagem de busca em profundidade para encontrar um caminho válido para o cavalo percorrer todas as casas do tabuleiro.
+
+O tabuleiro é representado por uma matriz NxN, onde cada casa é identificada por um par de coordenadas (linha, coluna). O cavalo começa em uma casa inicial (definida no código) e, a partir dessa posição, o programa tenta mover o cavalo para uma casa vizinha que ainda não tenha sido visitada. Esse processo continua até que todas as casas tenham sido visitadas ou não haja mais movimentos válidos.
+
+O programa exibirá o tabuleiro com o caminho percorrido pelo cavalo, indicando a ordem em que as casas foram visitadas.
+
+## Algoritmos utilizados:
+
+- (preencher com os algoritmos usados)
+- 
+- 
+
+## Autores 
+	Anna Gabriela Mota
+	Gabriel Brecciani Rebolla
 
 
-  
